@@ -1,0 +1,34 @@
+.NatePicture
+{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.HomeTitle
+{
+	color:blue;
+	text-align: center;
+}
+.AboutMe
+{
+	background-color: lightgreen;
+}
+.MyProjects
+{
+	background-color: skyblue;
+}
+.WorkExperience
+{
+	background-color: forestgreen;
+}
+.LearnMore
+{
+	background-color: lightblue;
+}
+.VSTHEWORLD
+{
+	color:lime;
+}
+.fancyPoem
+{
+	font-family: "Freestyle Script";
